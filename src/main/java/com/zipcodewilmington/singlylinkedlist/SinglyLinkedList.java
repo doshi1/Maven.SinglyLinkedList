@@ -17,7 +17,7 @@ public class SinglyLinkedList<T> implements Cloneable{
         this.size = 0;
     }
 
-    /////pain in the ass!!!!!
+
     //adds a node to the last node;
     public void add(T data){
         if(head != null){
